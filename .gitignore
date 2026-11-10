@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+
+# Downloaded models and recorded audio
+models/
+*.onnx
+*.wav
+
+# Planning notes never belong in this repo
+plan*.md
+notes/
+_private/
